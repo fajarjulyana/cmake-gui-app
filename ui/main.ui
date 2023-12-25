@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+    <object class="GtkWindow" id="main_window">
+        <property name="title">Hello GTK</property>
+        <property name="default-width">200</property>
+        <property name="default-height">200</property>
+        <child>
+            <object class="GtkLabel" id="label">
+                <property name="label">Hello, GTK!</property>
+            </object>
+        </child>
+    </object>
+</interface>

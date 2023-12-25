@@ -1,0 +1,3 @@
+/home/fajarjulyana/Downloads/guiApp/build/CMakeFiles/GtkApp.dir
+/home/fajarjulyana/Downloads/guiApp/build/CMakeFiles/edit_cache.dir
+/home/fajarjulyana/Downloads/guiApp/build/CMakeFiles/rebuild_cache.dir
